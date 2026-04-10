@@ -14,7 +14,17 @@ header p{
 }
 
 .jujutsu {
-    align-items: ;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 40px 40px;
+}
+
+.jujutsu a{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    b
 }
 
 .banner{
