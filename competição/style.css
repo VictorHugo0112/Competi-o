@@ -1,1 +1,70 @@
-.card5 {}
+.card5 {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 10px;
+  width: 20%;
+  border-radius: 10px;
+}
+
+.footer1 {
+  background-color: #15173D;
+  text-align: left;
+  color: white;
+  height: 100%;
+  padding: 30px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 500px;
+  font-family: sans-serif;
+}
+
+
+.footer1 a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+header p {
+  color: lightgray;
+}
+
+.jujutsu {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 40px 40px;
+
+}
+
+.jujutsu a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  gap: 20px;
+}
+
+
+.banner {
+  font-family: sans-serif;
+  background-color: #1C59D4;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
